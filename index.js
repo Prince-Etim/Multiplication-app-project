@@ -43,3 +43,4 @@ function updateLocalStorage(){
     /*the score here is a number, so we can not save the score directly to the local storage so we convert it to string using JSON.stringify method. its for the security of the browser.  */
    localStorage.setItem("score", JSON.stringify(score))
 }
+ww
