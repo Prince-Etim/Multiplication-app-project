@@ -1,4 +1,4 @@
-/*here we ask javascript to generate two numbers randomly for us from 1 to 10 */
+/*heree we ask javascript to generate two numbers randomly for us from 1 to 10 */
 const num1 = Math.ceil(Math.random() * 10);
 const num2 = Math.ceil(Math.random() * 10);
 
